@@ -12,7 +12,6 @@ Automatically pauses Spotify when Firefox starts playing audio (e.g., a YouTube 
 ## Requirements
 
 - [AutoHotkey v2.0](https://www.autohotkey.com/)
-- `Media.ahk` and `UnpauseSpotify.ahk` libraries (place in the same folder as the script)
 
 ## Installation
 
