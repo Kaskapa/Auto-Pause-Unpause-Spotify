@@ -33,7 +33,7 @@ Double-click `MainScript.ahk` to start it. The script will now monitor audio pla
 
 ## Notes
 
-- This script assumes Spotify and Firefox are installed and running with the following `SourceAppUserModelId`s:
+- This script assumes Spotify and Firefox are installed and running with the following `SourceAppUserModelIds`:
 - `firefox.exe` for Firefox
 - `spotify.exe` for Spotify
 - `UnpauseSpotify.ahk` should include the function `PlayPauseMedia()` or any logic to resume playback via media key simulation.
